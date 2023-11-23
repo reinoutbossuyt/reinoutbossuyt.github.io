@@ -93,6 +93,10 @@ a {
   color: var(--primary);
 }
 
+header {
+  margin-bottom: 1rem;
+}
+
 .container {
   width: 95%;
   margin: 0 auto;
@@ -378,6 +382,7 @@ strong {
 }
 
 .werken {
+  width: 75%;
 }
 
 .werk {
