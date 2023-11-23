@@ -6,4 +6,4 @@ image:  "conditierapporten.png"
 stack:  "digitale transformatie, workflow, research"
 order: 8
 ---
-Een aangepaste, digitale workflow maakt het voor om basisinformatie te exporteren vanuit het collectiemanagementsysteem en te importeren als basis voor conditierapporten.
+Mijn aangepaste, digitale workflow maakt het voor museummedewerkers mogelijk om basisinformatie te exporteren vanuit het collectiemanagementsysteem en te importeren als basis voor conditierapporten.

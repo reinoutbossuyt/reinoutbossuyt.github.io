@@ -6,4 +6,4 @@ image:  "widgets-prototype.png"
 stack: "HTML, Javascript"
 order: 3
 ---
-Met de UiTwidgets van publiq kan iedereen agenda-informatie in zijn eigen website integreren. Als proof-of-concept werd een prototype gebouwd in HTML en Javascript. Dit was de perfecte aanvulling op statische wireframes.
+Met de UiTwidgets van publiq kan iedereen agenda-informatie in zijn eigen website integreren. Als proof-of-concept bouwde ik een prototype in HTML en Javascript. Dit was de perfecte aanvulling op statische wireframes.

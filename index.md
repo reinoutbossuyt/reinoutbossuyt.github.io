@@ -18,7 +18,7 @@ layout: default
 </section>
 
 <section class="jobs">
-  <p class="jobs--text">Een goed geformuleerd probleem is al voor de helft opgelost. Dat is mijn motto en paste ik al toe in diverse jobs:</p>
+  <p class="jobs--text">Een goed geformuleerd probleem is al voor de helft opgelost. Dat is mijn motto. Bij deze opdrachten bracht ik mijn passie al in de praktijk:</p>
   <div class="accordion" id="accordionExample">
     {% for job in site.data.jobs %}
     <div class="accordion-item">
@@ -57,7 +57,7 @@ layout: default
 </section>
 
 <section class="multi">
-  <p class="multi--text">Kortom, ik hou ervan om veel verschillende dingen te doen en ben van mening dat elke activiteit voordelen oplevert voor de andere. </p>
+  <p class="multi--text">Kortom, ik hou ervan om veel verschillende dingen te doen. Ik ben er namelijk van overtuigd dat mijn kennis van de ene activiteit voordelen oplevert voor de andere.</p>
 </section>
 
 </div>
