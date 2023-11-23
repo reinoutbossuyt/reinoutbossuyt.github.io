@@ -1,12 +1,11 @@
 ---
-title: Over Reinout
+title: "Over Reinout"
+description: "Digitaal Architect. Afgestudeerd in Journalistiek, Data Visualisatie, Strategie en User Experience met een technische achtergrond."
 layout: default
 permalink: /over/
 ---
 
 <h1>Helderheid in de chaos</h1>
-
-
 
 <img src="/assets/img/foto.jpg" style="float: left; width: 150px; margin-right: 1rem;">
 <p><strong>Reinout Bossuyt</strong></p>

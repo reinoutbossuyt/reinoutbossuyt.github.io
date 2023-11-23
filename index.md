@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Reinout Bossuyt"
+description: "Hallo, Ik ben Reinout. Ik hou ervan complexe zaken te verhelderen. Hoe kan ik je helpen?"
 ---
 
 <div class="home">
@@ -53,7 +55,7 @@ layout: default
     </div>
     {% endfor %}
   </div>
-  <p class="job-toevoegen-tekst"><a href="/over#contact" class="job-toevoegen">Jouw organisatie toevoegen?</a></p>
+  <p class="job-toevoegen-tekst"><a href="/over#contact" class="job-toevoegen">Jouw organisatie / bedrijf toevoegen?</a></p>
 </section>
 
 <section class="multi">

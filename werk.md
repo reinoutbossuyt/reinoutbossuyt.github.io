@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Portfolio Reinout Bossuyt"
+description: "Enkele relevante projecten van mijn werk doorheen de jaren. Ontdek de verschillende voorbeelden."
 ---
 
 <h1>Portfolio</h1>
