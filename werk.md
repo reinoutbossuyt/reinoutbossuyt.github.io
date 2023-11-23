@@ -13,7 +13,7 @@ layout: default
     <div class="werk--info">
       <p class="werk--naam">{{werk.title}} <span class="label">{{werk.date | date: "%Y"}}</span></p>
       {{werk.content}}
-      <p>{{werk.stack}}</p>
+      <p>&mdash; <strong>{{werk.stack}}</strong></p>
     </div>
     <div class="werk--afbeelding">
       <img src="/assets/img/{{werk.image}}">
