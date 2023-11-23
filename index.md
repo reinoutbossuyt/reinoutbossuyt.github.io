@@ -2,6 +2,7 @@
 layout: default
 title: "Reinout Bossuyt"
 description: "Hallo, Ik ben Reinout. Ik hou ervan complexe zaken te verhelderen. Hoe kan ik je helpen?"
+class: "home"
 ---
 
 <div class="home">

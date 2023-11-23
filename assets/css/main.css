@@ -124,6 +124,7 @@ header {
 .accordion-item:first-of-type {
   border-top-left-radius: 0.25rem;
   border-top-right-radius: 0.25rem;
+  background-color: var(--main-bg-color);
 }
 
 .accordion-item {
@@ -310,11 +311,14 @@ nav a {
   }
 }
 
-.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+.navbar>.container {
   display: flex;
   flex-wrap: inherit;
   align-items: center;
   justify-content: space-between;
+}
+
+.type-home .navbar>.container {
   padding-right: 25%;
 }
 
@@ -356,7 +360,7 @@ nav a {
     flex-basis: 75%;
   }
 
-  body {
+  .type-home {
     background-image: url("/assets/img/persoon.svg");
     background-repeat: no-repeat;
     background-position: top right;
@@ -384,10 +388,6 @@ strong {
   font-size: 1.1rem;
 }
 
-.werken {
-  width: 75%;
-}
-
 .werk {
   display: flex;
   border-bottom: 1px solid rgba(0, 0, 0, .125);
@@ -403,7 +403,8 @@ strong {
 .werk--info {
   flex-basis: 50%;
   display: flex;
-  flex-direction: column
+  flex-direction: column;
+  padding: 1rem;
 }
 
 .werk--info p {
