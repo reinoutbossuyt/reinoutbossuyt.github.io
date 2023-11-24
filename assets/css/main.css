@@ -167,6 +167,10 @@ button {
   border-radius: 0;
 }
 
+.accordion {
+  background-color: var(--main-bg-color);
+}
+
 .accordion-button {
   position: relative;
   display: flex;
@@ -254,6 +258,10 @@ footer {
 .contact--text {
   font-size: 1.25rem;
   text-align: center;
+}
+
+.contact a {
+  text-decoration: none;
 }
 
 h1 {
@@ -396,10 +404,6 @@ strong {
   justify-content: space-between;
 }
 
-.werk:nth-child(even) {
-  flex-direction: row-reverse;
-}
-
 .werk--info {
   flex-basis: 50%;
   display: flex;
@@ -416,7 +420,6 @@ strong {
   flex-basis: 50%;
   max-width: 500px;
 }
-
 
 img {
   width: 100%;

@@ -18,7 +18,7 @@ description: "Enkele relevante projecten van mijn werk doorheen de jaren. Ontdek
       <p>&mdash; <strong>{{werk.stack}}</strong></p>
     </div>
     <div class="werk--afbeelding">
-      <img src="/assets/img/{{werk.image}}">
+      <img src="/assets/img/{{werk.image}}" alt="{{werk.titel}}">
     </div>
   </div>
 {% endfor %}
