@@ -63,6 +63,30 @@ class: "home"
   <p class="multi--text">Kortom, ik hou ervan om veel verschillende dingen te doen. Ik ben er namelijk van overtuigd dat mijn kennis van de ene activiteit voordelen oplevert voor de andere.</p>
 </section>
 
+<div class="ticker">
+  <div class="ticker__track">
+    <span>product management</span>
+    <span>functionele analyse </span>
+    <span>prototyping </span>
+    <span>digitale strategie </span>
+    <span>project management </span>
+    <span>api-ontwikkeling </span>
+    <span>product ownership </span>
+    <span>marktonderzoek</span>
+    <span>backlog management </span>
+    <span>stakeholder management </span>
+    <span>user experience (UX) </span>
+    <span>wireframing </span>
+    <span>digitale transformatie </span>
+    <span>data-integratie</span>
+    <span>digitale preservatie </span>
+    <span>vendor selection (RFP) </span>
+    <span>interface design </span>
+    <span>digitale ontsluiting </span>
+    <span>microservices architectuur </span>
+  </div>
+</div>
+
 </div>
 
 <div class="image-large">

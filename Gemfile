@@ -14,6 +14,8 @@ source "https://rubygems.org"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-seo-tag'
+gem "csv"
+gem "bigdecimal"
 
 # If you have any plugins, put them here!
 
